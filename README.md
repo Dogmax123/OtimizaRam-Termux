@@ -23,7 +23,7 @@ Abra o seu Termux e rode os seguintes comandos:
 
 ```bash
 # Baixe o script diretamente do repositório
-curl -O [https://raw.githubusercontent.com/SEU_USUARIO/OtimizaRam-Termux/main/OtimizaRam.sh](https://raw.githubusercontent.com/Dogmax123/OtimizaRam-Termux/main/OtimizaRam.sh)
+curl -O [https://raw.githubusercontent.com/Dogmax123/OtimizaRam-Termux/main/OtimizaRam.sh](https://raw.githubusercontent.com/Dogmax123/OtimizaRam-Termux/main/OtimizaRam.sh)
 
 # Dê permissão de execução
 chmod +x OtimizaRam.sh
